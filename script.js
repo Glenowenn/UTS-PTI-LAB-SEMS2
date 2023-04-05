@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function()
 {
+	
   // Set initial values
   var money = 0;
   var autoclickerPrice = 50;
