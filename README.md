@@ -9,9 +9,9 @@ Data anggota kelompok:
    NIM  :00000070244
 
 3. Nama : Devon Aurelius
-   NIM  :
+   NIM  : 00000068889
 
-4. Nama :
-   NIM  :
+4. Nama : Jonathan Farrel Marcio Santoso
+   NIM  : 00000069283
 
 
