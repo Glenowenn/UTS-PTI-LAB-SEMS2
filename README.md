@@ -20,3 +20,4 @@ Aturan Game:
 2. Itu terdapat 3 menu upgrade yang bernama sage mode,sennin mode,kurama mode 
 3. Disini mereka bisa mengupgrade ketika uang mereka mencukupi
 4. Terus digame ini level maximalnya itu level 10 jadi jika sudah di level 10 gamenya tidak akan menambah level lagi 
+  
