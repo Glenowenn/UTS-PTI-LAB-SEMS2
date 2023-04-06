@@ -325,7 +325,10 @@ button {
   #choose-character:hover {
     transform: translateY(-5px);
   }
-    
+  
+@media (max-width: 768px) {
+	
+}
 
 
   
